@@ -47,12 +47,13 @@ Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contact
 |:------------------------------:|:------------------------------:|
 |         Liquid Screen 1     |         Liquid Screen 2        |
 
-|  ![d04c84dd-5f57-48f4-ac34-020c1f9fa725](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/d0e0bc8a-3012-4576-8644-d542f789fecc)|![f78c65ec-fddf-40cf-8aac-8d5a7489e48a](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/17294679-7395-4a31-bada-c59bc099a5f1) |
+|  ![d04c84dd-5f57-48f4-ac34-020c1f9fa725](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/d0e0bc8a-3012-4576-8644-d542f789fecc)| ![f78c65ec-fddf-40cf-8aac-8d5a7489e48a](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/17294679-7395-4a31-bada-c59bc099a5f1) |
 |:------------------------------:|:------------------------------:|
 |         Liquid Screen 3       |         Welcome      |
 
 
-|  ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/83e6404f-d721-4b8b-b036-e2ddeebf0c85)  | ![76d332bf-6473-4ac4-863f-6dc5aec94bff] (https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/d6278fe4-d7f1-4bdf-8503-0b6f22bfb9c2)  |
+|  ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/83e6404f-d721-4b8b-b036-e2ddeebf0c85)| ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/03c633b0-bdf5-4fe3-a82e-02e4bbce1917)
+|
 |:------------------------------:|:------------------------------:|
 |        Login        |          Sign In       |
 
