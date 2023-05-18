@@ -10,7 +10,8 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 
 ## Video 
 
-https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/c0bf76fc-f7f7-4654-a460-67337d0b26f2
+
+https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/49453ba2-1b88-47e7-9ffb-b78b38260f9f
 
 
 ## Características principales
