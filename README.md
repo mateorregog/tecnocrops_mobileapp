@@ -1,8 +1,41 @@
-# login_flutter_app
+# Tecnocrops Mobile App
 
-A new Flutter project.
+![pp1-02](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/7c3527b6-a22e-40cf-a5a4-52f4a9ae72ca)
 
-## Getting Started
+
+## Descripción
+Bienvenido al repositorio Tecnocrops, una solución innovadora en el campo de la agricultura digital. Nuestra aplicación está diseñada para ayudar a los agricultores a optimizar sus operaciones y aumentar la productividad de sus cultivos.
+
+Con la creciente demanda de alimentos y los desafíos que enfrenta la industria agrícola, la agricultura digital se ha convertido en una herramienta esencial para mejorar la eficiencia y sostenibilidad de los procesos agrícolas. Nuestra aplicación móvil se enfoca en proporcionar una plataforma intuitiva y completa que permite a los agricultores monitorear y controlar sus cultivos de manera eficiente.
+
+
+## Características principales
+- Monitoreo en tiempo real: Nuestra aplicación móvil permite a los agricultores supervisar sus cultivos en tiempo real desde cualquier lugar. Pueden recibir datos precisos y actualizados sobre la humedad del suelo, la temperatura, los niveles de nutrientes y más.
+
+- Notificaciones y alertas: La aplicación móvil envía notificaciones y alertas a los agricultores sobre eventos importantes, como condiciones climáticas adversas, problemas de plagas o enfermedades, o situaciones de emergencia.
+
+- Interfaz intuitiva y fácil de usar: Hemos diseñado una interfaz de usuario intuitiva que facilita la navegación y el acceso a todas las funcionalidades de la aplicación. Los agricultores pueden utilizarla sin problemas, incluso si no tienen experiencia previa en tecnología.
+
+## Requisitos del sistema
+- Dispositivo móvil con sistema operativo Android o iOS.
+- Conexión a Internet para recibir y enviar datos desde la aplicación.
+- Sensores y dispositivos de monitoreo compatibles para recopilar datos de los cultivos.
+
+## Contribución
+¡Agradecemos todas las contribuciones a nuestro proyecto! Si deseas colaborar, por favor sigue las siguientes pautas:
+- Crea un fork de este repositorio y clona tu copia localmente.
+- Realiza tus modificaciones y mejoras en una rama separada.
+- Asegúrate de probar exhaustivamente tus cambios.
+- Envía una solicitud de extracción describiendo tus modificaciones detalladamente.
+
+## Equipo de desarrollo
+Mateo Orrego González (Desarrollador principal)
+Jonathan Antonio Sierra (Desarrollador)
+Jhonatan Paolo Tovar (Especialista en Electrónica y Sensores)
+
+
+##Contacto
+Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con nuestro equipo de desarrollo en [correo electrónico] o visitando nuestro sitio web [enlace al sitio web].
 
 ## Mockups
 ![bc43737f-9f15-49d2-b3c1-cdd34cb067a9](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/53771267-decc-4146-9b96-711848f76a4e)
@@ -29,13 +62,3 @@ A new Flutter project.
 
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
