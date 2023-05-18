@@ -4,7 +4,7 @@
 
 
 ## Descripción
-Bienvenido al repositorio Tecnocrops, una solución innovadora en el campo de la agricultura digital. Nuestra aplicación está diseñada para ayudar a los agricultores a optimizar sus operaciones y aumentar la productividad de sus cultivos.
+Somos Tecnocrops, una solución innovadora en el campo de la agricultura digital. Nuestra aplicación está diseñada para ayudar a los agricultores a optimizar sus operaciones y aumentar la productividad de sus cultivos.
 
 Con la creciente demanda de alimentos y los desafíos que enfrenta la industria agrícola, la agricultura digital se ha convertido en una herramienta esencial para mejorar la eficiencia y sostenibilidad de los procesos agrícolas. Nuestra aplicación móvil se enfoca en proporcionar una plataforma intuitiva y completa que permite a los agricultores monitorear y controlar sus cultivos de manera eficiente.
 
