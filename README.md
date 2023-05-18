@@ -35,7 +35,7 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 
 
 ##Contacto
-Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con nuestro equipo de desarrollo en [correo electrónico] o visitando nuestro sitio web [enlace al sitio web].
+Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con nuestro equipo de desarrollo!!!
 
 ## Mockups
 ![bc43737f-9f15-49d2-b3c1-cdd34cb067a9](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/53771267-decc-4146-9b96-711848f76a4e)
