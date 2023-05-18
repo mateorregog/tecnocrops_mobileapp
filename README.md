@@ -38,9 +38,12 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con nuestro equipo de desarrollo!!!
 
 ## Mockups
-![bc43737f-9f15-49d2-b3c1-cdd34cb067a9](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/53771267-decc-4146-9b96-711848f76a4e)
+| ![bc43737f-9f15-49d2-b3c1-cdd34cb067a9](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/53771267-decc-4146-9b96-711848f76a4e) | ![cce2ce6a-108f-4e7e-af0f-1cf57ca6eeec](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/8b46450c-9b78-4b6e-909b-b3d81a9b7c2e) |
+|:------------------------------:|:------------------------------:|
+|         Splash Screen        |         Descripción 2          |
 
-![cce2ce6a-108f-4e7e-af0f-1cf57ca6eeec](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/8b46450c-9b78-4b6e-909b-b3d81a9b7c2e)
+
+
 
 ![33889fc2-ad08-424b-8d8d-9a7b0f66707f](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/b8351a85-b950-4af3-a6fc-2d6441df1eb4)
 
