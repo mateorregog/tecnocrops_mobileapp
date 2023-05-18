@@ -52,8 +52,7 @@ Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contact
 |         Liquid Screen 3       |         Welcome      |
 
 
-|  ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/83e6404f-d721-4b8b-b036-e2ddeebf0c85)| ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/03c633b0-bdf5-4fe3-a82e-02e4bbce1917)
-|
+|  ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/83e6404f-d721-4b8b-b036-e2ddeebf0c85)| ![24afa516-6718-4e6c-ab58-cac7f2e27f8e](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/03c633b0-bdf5-4fe3-a82e-02e4bbce1917)|
 |:------------------------------:|:------------------------------:|
 |        Login        |          Sign In       |
 
