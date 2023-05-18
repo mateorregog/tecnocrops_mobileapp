@@ -23,15 +23,15 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 
 ## Contribución
 ¡Agradecemos todas las contribuciones a nuestro proyecto! Si deseas colaborar, por favor sigue las siguientes pautas:
-- Crea un fork de este repositorio y clona tu copia localmente.
-- Realiza tus modificaciones y mejoras en una rama separada.
-- Asegúrate de probar exhaustivamente tus cambios.
-- Envía una solicitud de extracción describiendo tus modificaciones detalladamente.
+1. Crea un fork de este repositorio y clona tu copia localmente.
+2. Realiza tus modificaciones y mejoras en una rama separada.
+3. Asegúrate de probar exhaustivamente tus cambios.
+4. Envía una solicitud de extracción describiendo tus modificaciones detalladamente.
 
 ## Equipo de desarrollo
-Mateo Orrego González (Desarrollador principal)
-Jonathan Antonio Sierra (Desarrollador)
-Jhonatan Paolo Tovar (Especialista en Electrónica y Sensores)
+- Mateo Orrego González (Desarrollador principal)
+- Jonathan Antonio Sierra (Desarrollador)
+- Jhonatan Paolo Tovar (Especialista en Electrónica y Sensores)
 
 
 ##Contacto
