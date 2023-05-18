@@ -34,7 +34,7 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 - Jhonatan Paolo Tovar (Especialista en Electrónica y Sensores)
 
 
-##Contacto
+## Contacto
 Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con nuestro equipo de desarrollo!!!
 
 ## Mockups
@@ -63,7 +63,7 @@ Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contact
 |         Splash Screen        |         Animation        |
 
 
-| ![0f5c809b-b80b-4166-b41b-471c0937de50](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/3f13ae7c-e8da-455c-8929-f773ad5ff128) |![c1047bea-edd3-42a2-88d3-eaa90e36ee64](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/638a82d5-2d86-4844-ba69-84c77a9f7e14)|
+| ![0f5c809b-b80b-4166-b41b-471c0937de50](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/3f13ae7c-e8da-455c-8929-f773ad5ff128) | ![c1047bea-edd3-42a2-88d3-eaa90e36ee64](https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/638a82d5-2d86-4844-ba69-84c77a9f7e14)|
 |:------------------------------:|:------------------------------:|
 |        Dashboard       |        Profile      |
 
