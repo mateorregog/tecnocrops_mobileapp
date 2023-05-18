@@ -8,6 +8,10 @@ Bienvenido al repositorio Tecnocrops, una solución innovadora en el campo de la
 
 Con la creciente demanda de alimentos y los desafíos que enfrenta la industria agrícola, la agricultura digital se ha convertido en una herramienta esencial para mejorar la eficiencia y sostenibilidad de los procesos agrícolas. Nuestra aplicación móvil se enfoca en proporcionar una plataforma intuitiva y completa que permite a los agricultores monitorear y controlar sus cultivos de manera eficiente.
 
+## Video 
+
+https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/c0bf76fc-f7f7-4654-a460-67337d0b26f2
+
 
 ## Características principales
 - Monitoreo en tiempo real: Nuestra aplicación móvil permite a los agricultores supervisar sus cultivos en tiempo real desde cualquier lugar. Pueden recibir datos precisos y actualizados sobre la humedad del suelo, la temperatura, los niveles de nutrientes y más.
