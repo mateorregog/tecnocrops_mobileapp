@@ -12,8 +12,6 @@ Con la creciente demanda de alimentos y los desafíos que enfrenta la industria 
 
 
 https://github.com/mateorregog/tecnocrops_mobileapp/assets/87208231/26ea4409-3521-47ef-9cc7-196c68e5542e 
-|:------------------------------:|
-|        Video App       |       
 
 
 
