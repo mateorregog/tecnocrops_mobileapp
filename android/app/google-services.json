@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277134210992",
+    "project_id": "tecnocropslogin",
+    "storage_bucket": "tecnocropslogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277134210992:android:a812d398bd66cc0617c875",
+        "android_client_info": {
+          "package_name": "com.example.login_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277134210992-c55f0papbjgbseav1b2b524d43le77a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcbmnuG_Xv-mxOpS0B41wvBPDalM6r98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277134210992-c55f0papbjgbseav1b2b524d43le77a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
